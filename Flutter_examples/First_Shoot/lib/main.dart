@@ -84,7 +84,7 @@ class _MyAppState extends State<MyApp> {
       // ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          print("Get the Fuck out of this App!!");
+          print("You Pressed the Button!!");
         },
         backgroundColor: Colors.teal[200],
         child: const Text("Button"),
