@@ -1,6 +1,7 @@
 # first_shoot
 
-A new Flutter project.
+My first Flutter Project.
+First step into the Flutter Universe.
 
 ## Getting Started
 
