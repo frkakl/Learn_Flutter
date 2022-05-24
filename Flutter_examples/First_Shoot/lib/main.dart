@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    var question = ["What's ur fav color?", "What's ur fav car?"];
+    var question = ["What's your favorite color?", "What's your favorite car?"];
     return Scaffold(
       appBar: AppBar(
         title: const Text("First Shoot"),
